@@ -1,2 +1,6 @@
 # Vokab-Trainer
-A siple not nice but realy good Trainer
+Ein eifacher Vokabeltrainer.
+
+/Instalier Anleitung
+
+1.Herunterladen Des Repos
