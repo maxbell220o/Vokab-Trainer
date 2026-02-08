@@ -16,7 +16,9 @@ Ist ein eifacher Vokabeltrainer. Nicht Schön, aber Gut.
 ## Verion 1:
 
 ### Funtionen:
-
+- Merere Fächer(Englisch,Latein)
+- Fachsystem 1-5
+- Widerhole der Falschen Vokabeln
 
 ### Bilder:
 <img width="1600" height="861" alt="Screenshot 2026-02-07 124738" src="https://github.com/user-attachments/assets/aba4aa86-ab30-4bae-aa9f-d9fcc709a1cf" />
@@ -31,3 +33,10 @@ Trainer
 https://github.com/user-attachments/assets/ddf6e8f7-58ad-4f83-a341-8237587111ae
 
 See it in Action
+
+
+## Schulen:
+
+Für Schulen bieten wir Sonderlizenzen an.
+Natürlich kostenlos.
+schreiben sie uns (boeden.versorgung.6f@icloud.com).
