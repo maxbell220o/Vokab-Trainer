@@ -14,3 +14,14 @@ Ist ein eifacher Vokabeltrainer. Nicht Schön, aber Gut.
 
 
 ## Verion 1:
+
+### Funtionen:
+
+
+### Bilder:
+<img width="1600" height="861" alt="Screenshot 2026-02-07 124738" src="https://github.com/user-attachments/assets/aba4aa86-ab30-4bae-aa9f-d9fcc709a1cf" />
+Main Window
+<img width="1600" height="860" alt="Screenshot 2026-02-08 081048" src="https://github.com/user-attachments/assets/244f63d7-65b7-4e35-ac85-260d1b25a90b" />
+Trainig Window
+https://github.com/user-attachments/assets/a65e27a6-3f53-4ac2-95b6-b612b69d75ab
+See it in action
