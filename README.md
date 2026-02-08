@@ -39,4 +39,4 @@ See it in Action
 
 Für Schulen bieten wir Sonderlizenzen an.
 Natürlich kostenlos.
-schreiben sie uns (boeden.versorgung.6f@icloud.com).
+Schreiben sie uns (boeden.versorgung.6f@icloud.com).
